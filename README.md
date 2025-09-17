@@ -2,21 +2,25 @@
 
 ## About Me
 
-TypeScript developer focused on AWS automation and infrastructure tooling. I build command-line interfaces and development tools that emphasize type safety, comprehensive documentation, and enterprise-grade reliability.
+TypeScript developer focused on AWS automation and infrastructure tooling. I build command-line interfaces and 
+development tools that emphasize type safety, comprehensive documentation, and enterprise-grade reliability.
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Cloud & Infrastructure
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ### Development Tools
+
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -25,7 +29,9 @@ TypeScript developer focused on AWS automation and infrastructure tooling. I bui
 ## 🚀 Featured Projects
 
 ### [aws-ts](https://github.com/enri3l/aws-ts)
+
 **TypeScript CLI for AWS Operations**
+
 - Comprehensive DynamoDB operations with streaming pagination
 - Enterprise-grade batch processing with checkpointing  
 - TSDoc documentation standards with automated generation
@@ -34,7 +40,9 @@ TypeScript developer focused on AWS automation and infrastructure tooling. I bui
 **Tech**: TypeScript, AWS SDK v3, yargs, VitePress
 
 ### [ts-template](https://github.com/enri3l/ts-template)
+
 **Modern TypeScript Project Template**
+
 - Strict TypeScript configuration with zero tolerance for `any`
 - Comprehensive ESLint + Prettier setup
 - Commitlint, Lefthook, and semantic-release automation
@@ -51,6 +59,7 @@ TypeScript developer focused on AWS automation and infrastructure tooling. I bui
 ## 🏗️ Architecture Philosophy
 
 I believe in:
+
 - **Type Safety First**: Comprehensive TypeScript with strict configuration
 - **Documentation as Code**: TSDoc standards with automated generation
 - **Quality Automation**: ESLint, testing, and CI/CD pipelines

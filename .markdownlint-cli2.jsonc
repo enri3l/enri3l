@@ -1,0 +1,23 @@
+{
+  // markdownlint-cli2 configuration for GitHub Profile README
+  "config": {
+    // Allow longer lines for URLs and badge configurations
+    "MD013": {
+      "line_length": 120,
+      "code_blocks": false,
+      "tables": false,
+      "headings": false
+    },
+    // Allow inline HTML for GitHub README features
+    "MD033": {
+      "allowed_elements": ["div", "img", "br", "a", "details", "summary"]
+    },
+    // Allow emphasis as pseudo-headings for sections
+    "MD036": false,
+    // Allow files to start without top-level heading (for profile intro)
+    "MD041": false
+  },
+  "globs": [
+    "**/*.md"
+  ]
+}

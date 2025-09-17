@@ -2,7 +2,7 @@
 
 ## About Me
 
-TypeScript developer focused on AWS automation and infrastructure tooling. I build command-line interfaces and 
+TypeScript developer focused on AWS automation and infrastructure tooling. I build command-line interfaces and
 development tools that emphasize type safety, comprehensive documentation, and enterprise-grade reliability.
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,7 @@ development tools that emphasize type safety, comprehensive documentation, and e
 **TypeScript CLI for AWS Operations**
 
 - Comprehensive DynamoDB operations with streaming pagination
-- Enterprise-grade batch processing with checkpointing  
+- Enterprise-grade batch processing with checkpointing
 - TSDoc documentation standards with automated generation
 - VitePress documentation system following Diataxis framework
 

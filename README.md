@@ -33,7 +33,7 @@ development tools that emphasize type safety, comprehensive documentation, and e
 **TypeScript CLI for AWS Operations**
 
 - Comprehensive DynamoDB operations with streaming pagination
-- Enterprise-grade batch processing with checkpointing
+- Enterprise-grade batch processing with checkpointing  
 - TSDoc documentation standards with automated generation
 - VitePress documentation system following Diataxis framework
 
@@ -73,5 +73,3 @@ I believe in:
 - 📍 Location: Rome, Italy
 
 ---
-
-*"Prefer simplicity over sophistication with comprehensive documentation"*
